@@ -1,1 +1,1 @@
-# diy-sds011-air-wuality-station
+# diy-sds011-air-quality-station
