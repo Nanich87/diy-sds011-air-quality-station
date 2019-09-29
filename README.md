@@ -23,3 +23,9 @@ https://www.aliexpress.com/item/32801921097.html
 *7. Wires*
 
 *8. M2.5 Standoffs*
+
+**Tools**
+
+*Soldering Iron*
+
+*Solder Wire*
