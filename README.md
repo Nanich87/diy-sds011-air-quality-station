@@ -20,9 +20,11 @@ https://www.aliexpress.com/item/32742116421.html
 *6. MICRO USB To DIP Adapter*
 https://www.aliexpress.com/item/32801921097.html
 
-*7. Wires*
+*7. Flexible Wires*
 
-*8. M2.5 Standoffs*
+*8. 6x Standoffs (M3)*
+
+*9. 6x Screws (M3)*
 
 **Tools**
 
